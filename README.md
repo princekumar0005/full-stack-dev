@@ -19,7 +19,7 @@ Master HTML, CSS, JavaScript, and frameworks
 
 # 🗂️ Daily Progress
 
-📘 Week 1: HTML Basics
+# 📘 Week 1: HTML Basics
 
 Day 1: Introduction to HTML, tags, structure
 
@@ -39,7 +39,7 @@ Day 7: Revision + GitHub upload
 
 ---
 
-🎨 Week 2: CSS Basics
+# 🎨 Week 2: CSS Basics
 
 Day 8: Introduction to CSS, selectors
 
@@ -59,7 +59,7 @@ Day 14: Project (responsive landing page)
 
 ---
 
-⚡ Week 3: JavaScript Basics
+# ⚡ Week 3: JavaScript Basics
 
 Day 15: Introduction to JavaScript
 
@@ -79,7 +79,7 @@ Day 21: Project (interactive webpage)
 
 ---
 
-🌐 Week 4: Advanced JavaScript
+# 🌐 Week 4: Advanced JavaScript
 
 Day 22: ES6 features
 
@@ -99,7 +99,7 @@ Day 28: Revision
 
 ---
 
-⚛️ Week 5: React Basics
+# ⚛️ Week 5: React Basics
 
 Day 29: Introduction to React
 
