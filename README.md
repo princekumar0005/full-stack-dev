@@ -119,7 +119,7 @@ Day 35: Project (React app)
 
 ---
 
-#📁 Projects
+# 📁 Projects
 
 HTML Project: Basic webpage
 
@@ -133,7 +133,7 @@ React Project: Dynamic web app
 
 ---
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 HTML5
 
@@ -151,7 +151,7 @@ VS Code
 
 ---
 
-#📚 Resources
+# 📚 Resources
 
 YouTube tutorials
 
@@ -163,7 +163,7 @@ Practice platforms (CodePen, LeetCode)
 
 ---
 
-#📌 How to Use This Repo
+# 📌 How to Use This Repo
 
 1. Follow daily tasks
 
