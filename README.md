@@ -23,7 +23,7 @@ Master HTML, CSS, JavaScript, and frameworks
 
 - What is HTML
 - Basic structure (<!DOCTYPE>,<html>, <head>, <body>)
-- Basic HTML Tags (Headings,<a>,<p>,<img>)
+- Basic HTML Tags (Headings,<a>,<p>, <img>)
     
   
       
