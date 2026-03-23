@@ -56,7 +56,8 @@ Boilerplate structure
 
 
 
-<!-----
+<!--
+---
 
 📍 Day 2 – HTML Basics
 
@@ -200,9 +201,10 @@ React.js ⚛️
 
 
 
------>
+---
+-->
 
-📂 Projects
+# 📂 Projects
 
 Project Name	Description
 
@@ -212,7 +214,7 @@ Coming Soon	🚧
 
 ---
 
-📈 Progress Tracker
+# 📈 Progress Tracker
 
 ✅ HTML Basics
 
@@ -226,7 +228,7 @@ Coming Soon	🚧
 
 ---
 
-💡 Why This Repo?
+# 💡 Why This Repo?
 
 Track my growth 📊
 
@@ -238,7 +240,7 @@ Help others learn 🤝
 
 ---
 
-🤝 Connect With Me
+# 🤝 Connect With Me
 
 GitHub: (Add your link here)
 
@@ -248,7 +250,7 @@ LinkedIn: (Optional)
 
 ---
 
-⭐ Support
+# ⭐ Support
 
 If you like this repo, don’t forget to star ⭐ it!
 
