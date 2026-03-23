@@ -54,11 +54,11 @@ Frameworks (React - upcoming)
 
 - Boilerplate structure
 
+---
+
 
 
 <!--
----
-
 📍 Day 2 – HTML Basics
 
 Links (<a>)
