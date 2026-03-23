@@ -18,8 +18,9 @@ Master HTML, CSS, JavaScript, and frameworks
 ---
 
 # 🗂️ Daily Progress
-###### DAY-1
-      - hi
+
+# DAY -1
+      
 
 
 
