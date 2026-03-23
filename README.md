@@ -40,19 +40,19 @@ Frameworks (React - upcoming)
 
 # 📅 Day-by-Day Learning
 
-📍 Day 1 – Introduction to HTML
+# 📍 Day 1 – Introduction to HTML
 
-What is HTML?
+- What is HTML?
 
-Basic structure of HTML
+- Basic structure of HTML
 
-Tags and elements
+- Tags and elements
 
-Headings (<h1> - <h6>)
+- Headings (<h1> - <h6>)
 
-Paragraph (<p>)
+- Paragraph (<p>)
 
-Boilerplate structure
+- Boilerplate structure
 
 
 
