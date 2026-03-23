@@ -48,16 +48,16 @@ Frameworks (React - upcoming)
 
 - Tags and elements
 
-- Headings (<h1> - <h6>)
+- Headings 
 
 
-- Paragraph (<p>)
+- Paragraph 
   
 
 - Boilerplate structure
 
   
-
+<!--
 ---
 
 📍 Day 2 – HTML Basics
