@@ -1,0 +1,4 @@
+/*🔹 What is JavaScript?
+JavaScript is a programming language used to:
+Make websites interactive
+Add logic (like buttons, games, forms)*/
