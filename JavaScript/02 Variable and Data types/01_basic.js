@@ -21,13 +21,13 @@ console.log(y); // 123
 let fullName = "Tony Stark";
 let age = 24;
 let price = 99.99;
-let x = null;
-let y = undefined;
+let w = null;
+let z = undefined;
 let isFollow = true;
 
 // Variable naming rules (Case Sensitive) 
 let full_name = "Shradha Khapra";
-let FullName = "Aman Dhattarwal"; 
+let FullName = "Prince Kumar"; 
 
 // Using let (Updated, but not re-declared) 
 let currentAge = 24;
