@@ -1,3 +1,9 @@
+//🔹 What is JavaScript?
+   //JavaScript is a programming language used to:
+   //Make websites interactive
+   //Add logic (like buttons, games, forms)
+
+
 // --- BASIC OUTPUT ---
 
 // console.log() is used for debugging and output in the DevTools console
