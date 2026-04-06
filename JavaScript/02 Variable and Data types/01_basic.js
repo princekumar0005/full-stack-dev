@@ -15,6 +15,8 @@ let y = 123;
 console.log(x); // 100
 console.log(y); // 123
 
+// Variable 
+
 // Basic variable declaration
 let fullName = "Tony Stark";
 let age = 24;
@@ -34,5 +36,23 @@ currentAge = 25; // Allowed
 // Using const (Fixed value) 
 const PI = 3.14;
 // PI = 3.15; // This would cause an error
+
+// Objects (Non-Primitive Data Types)
+
+const student = {
+    fullName: "Rahul Kumar",
+    age: 20,
+    cgpa: 8.2,
+    isPass: true
+};
+
+// Accessing and updating object keys 
+console.log(student.fullName); // Using dot notation
+console.log(student["age"]);    // Using square brackets
+
+student.age = student.age + 1; // Updating a value
+console.log(student.age); // Result: 21
+
+
 
 
