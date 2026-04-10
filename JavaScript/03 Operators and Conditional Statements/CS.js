@@ -26,11 +26,3 @@ console.log(color);
 let result = age >= 18 ? "adult" : "not adult";
 console.log(result);
 
-// --- 9. PRACTICE QUESTION 1: MULTIPLE OF 5 --- [01:03:00]
-let num = prompt("Enter a number:"); // User Input [01:04:20]
-
-if (num % 5 === 0) {
-    console.log(num, "is a multiple of 5");
-} else {
-    console.log(num, "is NOT a multiple of 5");
-}
